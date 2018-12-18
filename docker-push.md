@@ -4,8 +4,8 @@
 
 ```
 root@ubuntu:/usr/local/docker/itoken-config/docker# docker push 192.168.191.131:5000/itoken-config
-<font color=#ff0000 >The push refers to repository [192.168.191.131:5000/itoken-config]</font>
-<font color=#f00 >Get https://192.168.191.131:5000/v2/: http: server gave HTTP response to HTTPS client</font>
+The push refers to repository [192.168.191.131:5000/itoken-config]
+Get https://192.168.191.131:5000/v2/: http: server gave HTTP response to HTTPS client
 ```
 
 ## Environment:
