@@ -21,6 +21,7 @@ $ sh get-docker.sh --mirror AzureChinaCloud
 
 3. 启动docker
 ```
+$ systemctl enable docker
 $ systemctl start docker
 ```
 
